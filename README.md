@@ -9,8 +9,9 @@ This dataset provides comprehensive statistics on the top goal scorers in the Pr
 - **Total Records:** 41 players  
 - **Columns:** 9  
 - **File Format:** CSV  
-- **File Size:** ~3 KB  
-- **Season:** Not specified (assumed recent)
+- **File Size:** ~3 KB   
+- **Source/Reason:** Data collected via web scraping for educational and analytical purposes
+
 
 ---
 
